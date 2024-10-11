@@ -20,7 +20,6 @@ There are mainly two phases when it comes to associative memory.
 
 
 #### Memory Limit
-
     For a network with `N` nodes, the memory limit is `0.15N`
 
 #### Disadvantages
