@@ -2,7 +2,7 @@
 
 This project aims to develop an efficient Hopfield Networks, which was pretty neat work. 
 Although it doesn't actually understand the underlying Distribution, the concept of memory in a Non-Probablilistic 
-setting using Non-Probabilistic dimensional strectch to learn and converge patterns.
+setting using Non-Probabilistic dimensional stretch to learn and converge patterns is interesting.
 
 Hopfield Networks were developed by John Hopfield in 1982. They we meant to model our brain in terms of how reaches an associated memory starting from small and noisy fragments. 
 
