@@ -20,7 +20,7 @@ There are mainly two phases when it comes to associative memory.
 
 
 #### Memory Limit
-    For a network with `N` nodes, the memory limit is `0.15N`
+For a network with `N` nodes, the memory limit is `0.15N`
 
 #### Disadvantages
 1. They do not take into account the stochastic nature of the human neural network. The actual brain has stochastic neurons, which means it can randomly send a signal or remain dormant. This fact points towards probabilistic models to imitate the human brain. Further words, like Restricted Boltzmann Machines take into account the random nature of neurons. 
